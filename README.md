@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Rafael Serichol
+- 👀 I’m interested in Data and AI
+- 🌱 I’m currently learning HTML
+- 📫 you can find me on: www.linkedin.com/in/rafael-serichol
