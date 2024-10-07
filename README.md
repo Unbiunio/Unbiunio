@@ -1,4 +1,7 @@
-# 👋 Hi, I’m Rafa Serichol
+# 👋 Hi everyone! I´m Rafa Serichol
+
+
+I’m really fascinated about how fast technology is evolving and how data and AI are going to change our lives in the future, making things easier for us. But we have to be careful and resist the temptation to let technology and AI do everything for us; otherwise, we might just end up digging our own graves and let then decide our fate.
 
 
 ## Data Scientist
@@ -21,7 +24,7 @@ Feel free to explore the repositories and see how I solve real-world problems us
 
 ### About Me
 
-Hey there! I'm Rafa, a passionate data scientist with a love for Data and AI . But in my spare time, you'll find me enjoying motorsports like MotoGP and Formula 1 or playing futsal with my firends . I also love food and cooking for others. I really enjoy it when my friends come over and get to taste my delicious menu 😋..
+I'm  a passionate data scientist with a love for Data and AI.  But in my spare time, you'll find me enjoying motorsports like MotoGP and Formula 1 or playing futsal with my firends . I also love food and cooking for others. I really enjoy it when my friends come over and get to taste my delicious menu 😋..
 
 # 🏍️ #🏎️ #⚽ #👨‍🍳
 
