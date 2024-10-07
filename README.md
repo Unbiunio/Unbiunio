@@ -1,15 +1,11 @@
-- 👋 Hi, I’m Rafael Serichol
-- 👀 I’m interested in Data and AI
-- 🌱 I’m currently learning HTML
-- 📫 you can find me on: www.linkedin.com/in/rafael-serichol
+# 👋 Hi, I’m Rafa Serichol
 
-- # Rafa Serichol
 
 ## Data Scientist
 
----
+📫 https://www.linkedin.com/in/rafaserichol/
 
-### Welcome to my Data Science Portfolio
+### Welcome to my Data Science Repository
 
 Here, you will find projects and work samples showcasing my expertise in:
 
@@ -25,9 +21,9 @@ Feel free to explore the repositories and see how I solve real-world problems us
 
 ### About Me
 
-I have a passion for extracting valuable insights from data, improving business decision-making processes through machine learning, and creating impactful visualizations. With experience in various domains, including retail sales forecasting and clustering, I aim to contribute to data-driven solutions.
+Hey there! I'm Rafa, a passionate data scientist with a love for Data and AI . But in my spare time, you'll find me enjoying motorsports like MotoGP and Formula 1 or playing futsal with my firends . I also love food and cooking for others. I really enjoy it when my friends come over and get to taste my delicious menu 😋..
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/rafaserichol/)!
+# 🏍️ #🏎️ #⚽ #👨‍🍳
 
 ---
 
