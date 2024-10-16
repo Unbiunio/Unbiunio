@@ -24,7 +24,7 @@ Feel free to explore the repositories and see how I solve real-world problems us
 
 ### About Me
 
-I'm  a passionate data scientist with a love for Data and AI.  But in my spare time, you'll find me enjoying motorsports like MotoGP and Formula 1 or playing futsal with my firends . I also love food and cooking for others. I really enjoy it when my friends come over and get to taste my delicious menu 😋..
+I'm  a passionate data scientist with a love for Data and AI.  But in my spare time, you'll find me enjoying motorsports like MotoGP and Formula 1 or playing futsal with my friends . I also love food and cooking for others. I really enjoy it when my friends come over and get to taste my delicious menus 😋..
 
 # 🏍️ #🏎️ #⚽ #👨‍🍳
 
